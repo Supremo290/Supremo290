@@ -38,10 +38,4 @@ I’m an aspiring Data Analyst and future AI Engineer, currently building my fou
 
 <a href="http://www.github.com/Supremo290"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Supremo290&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Supremo290/Supremo290/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Supremo290/Supremo290/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Supremo290/Supremo290/output/pacman-contribution-graph.svg">
-</picture>
-
 
